@@ -1,0 +1,77 @@
+const menu = [
+    {
+      id: 1,
+      name: 'Omelete',
+      category: 'breakfast',
+      price: '30',
+      img: './images/mOmelete.jpg',
+      desc: `Many a kid's birthday party is celebrated with a sheet-cake version of this dessert that's topped with billows of chocolate frosting and rainbow sprinkles. `,
+    },
+    {
+      id: 2,
+      name: 'aloo-paratha',
+      category: 'breakfast',
+      price: '30',
+      img: './images/maloo-paratha.jpg',
+      desc: `Named because it's made with a pound of each of the main ingredients (flour, butter, and sugar), this cake doesn’t rise much while baking, and the texture is very dense.`,
+    },
+    {
+      id: 3,
+      name: 'Sandwich',
+      category: 'breakfast',
+      price: '40',
+      img: './images/mSandwich.jpg',
+      desc: `This is a true favorite, especially in the south. Made with either butter or oil, red velvet cake's color classically comes from the reaction of buttermilk and cocoa powder..`,
+    },
+    {
+      id: 4,
+      name: 'Onion-Raita',
+      category: 'lunch',
+      price: '50',
+      img: './images/lOnion-Raita-1.jpg',
+      desc: `Leavened with baking soda and baking powder, this shortened cake uses oil as its main fat rather than butter.`,
+    },
+    {
+      id: 5,
+      name: 'roti-roll',
+      category: 'lunch',
+      price: '50',
+      img: './images/lroti-roll.jpg',
+      desc: `This is a foam-style cake that has no artificial leaveners (baking powder or baking soda). `,
+    },
+    {
+      id: 6,
+      name: 'vegetable-MasalaMaggi',
+      category: 'lunch',
+      price: '30',
+      img: './images/lvegetable-MasalaMaggi.jpg',
+      desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+    },
+    {
+      id: 7,
+      name: 'paneer-sabji',
+      category: 'dinner',
+      price: '40',
+      img: './images/dpaneer-sabji.jpg',
+      desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
+    },
+    {
+      id: 8,
+      name: 'chipotle-cheeseburger',
+      category: 'dinner',
+      price: '30',
+      img: './images/dchipotle-cheeseburger.jpg',
+      desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+    },
+    {
+      id: 9,
+      name: 'EggBhurji',
+      category: 'dineer',
+      price: '70',
+      img: './images/dEggBhurji.jpg',
+      desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    },
+   
+
+  ];
+  export default menu;
